@@ -1,6 +1,6 @@
 ---
 name: canvas-design
-description: 使用设计理念创作精美的 .png 和 .pdf 视觉艺术作品。当用户请求创建海报、艺术作品、设计或静态视觉内容时触发。创作原创作品，避免复制现有艺术家风格以防版权侵权。
+description: Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.
 license: Complete terms in LICENSE.txt
 ---
 
